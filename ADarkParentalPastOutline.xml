@@ -1,0 +1,35 @@
+<Root>
+<Header info="Created with miMind software."></Header>
+<Content>
+<Node Title="A Dark Parental Past">
+<Node Title="Children Player Character">
+<Node Title="School ">
+<Node Title="Academic Level"></Node>
+</Node>
+<Node Title="Boy Body Type"></Node>
+<Node Title="Boy Personality Type"></Node>
+<Node Title="Girl Body Type"></Node>
+<Node Title="Girl Personality Type"></Node>
+<Node Title="Food Preferences">
+<Node Title="Clinical Consequences"></Node>
+</Node>
+</Node>
+<Node Title="Mother Player Character">
+<Node Title="Mother&apos;s Medical History"></Node>
+</Node>
+<Node Title="Father Player Character">
+<Node Title="Father&apos;s Medical History"></Node>
+</Node>
+<Node Title="Parental Investment"></Node>
+<Node Title="Location">
+<Node Title="Englewood Biome"></Node>
+<Node>
+<Text>Uptown Desert</Text>
+</Node>
+<Node>
+<Text>Austin Patch</Text>
+</Node>
+</Node>
+</Node>
+</Content>
+</Root>
