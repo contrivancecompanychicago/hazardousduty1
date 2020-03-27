@@ -1,0 +1,31 @@
+<Root>
+<Header info="Created with miMind software."></Header>
+<Content>
+<Node>
+<Text>Emotional Drivers</Text>
+<Node Title="Personal Factors">
+<Node Title="Economic Capital"></Node>
+</Node>
+<Node Title="Resources"></Node>
+<Node Title="Society"></Node>
+<Node Title="Culture">
+<Node Title="Ramen Fury"></Node>
+</Node>
+<Node Title="Ideals"></Node>
+<Node Title="Biological Factors">
+<Node Title="Lincoln Park Farmers Market">
+<Node Title="Lincoln Park Zoo">
+<Node Title="Imports"></Node>
+</Node>
+<Node Title="Lincoln Park Conservatory"></Node>
+<Node Title="Lincoln Park Farm"></Node>
+</Node>
+</Node>
+<Node Title="Club Punnetts">
+<Node Title="Rex&apos;s Menu"></Node>
+<Node Title="Obestatin&apos;s Menu "></Node>
+<Node Title="Ghrelin&apos;s Menu"></Node>
+</Node>
+</Node>
+</Content>
+</Root>
